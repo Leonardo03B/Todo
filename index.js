@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Entonces porfavor')
+    alert('Bieeen, que lindo que todavia me quieras y mucho, te amoo ❤️')
 });
 
 const noBtn = document.querySelector('#noBtn');
